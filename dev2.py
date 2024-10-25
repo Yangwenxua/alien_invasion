@@ -1,1 +1,1 @@
-print("我的python我做主")
+print("hello world")
